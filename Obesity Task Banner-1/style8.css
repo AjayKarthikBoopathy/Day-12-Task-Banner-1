@@ -1,0 +1,255 @@
+*{
+    background-color: rgb(222, 247, 255);
+}
+
+.col1{
+    border-right: dashed;
+}
+.simple{
+    border: 1px solid rgba(0, 0, 255, 0.596);
+    background-color: rgba(0, 0, 255, 0.596);
+    border-left: dotted;
+    border-right: dotted;
+    padding: 0 6px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.h1-2{
+    color: rgba(187, 173, 43, 0.959);
+}
+
+
+.ic-1,.ic-2,.ic-3,.ic-4,.ic-5,.ic-6,.ic-7,.ic-8,.ic-9,.ic-10,.ic-11,.ic-12{
+    list-style: none;
+    display: flex;
+    
+}
+
+.icon-1{
+    height: 90px;
+    width: 90px;
+    background: url("cupcake.svg") center no-repeat;
+    
+}
+
+.icon-2{
+    height: 90px;
+    width: 90px;
+    background: url("soda.svg") center no-repeat;
+    
+}
+
+.icon-3{
+    height: 90px;
+    width: 90px;
+    background: url("donut5.svg") center no-repeat;
+    
+}
+
+.icon-4{
+    height: 90px;
+    width: 90px;
+    background: url("burger.svg") center no-repeat;
+}
+.icon-5{
+    height: 90px;
+    width: 90px;
+    background: url("orange.svg") center no-repeat;
+}
+.icon-6{
+    height: 90px;
+    width: 90px;
+    background: url("pizza.svg") center no-repeat;
+}
+
+
+
+
+.small{
+    margin-top: 3px;
+    font-size: x-small;
+    line-height: 0.1px;
+    font-weight: 500;
+    
+}
+.ratio{
+    line-height: 0.5px;
+    font-weight: 500;
+}
+.rat-value{
+    color:  rgba(187, 173, 43, 0.959);
+    font-size: x-large;
+    font-weight: bolder;
+    line-height: 2.5px;
+}
+
+.icon-7-1{
+    margin-left: 23px;
+    height: 40px;
+    width: 204px;
+    background: url("man.svg");
+    background-repeat: repeat-x;
+}
+.icon-7-2{
+    margin-left: 28px;
+    height: 40px;
+    width: 140px;
+    background: url("man.svg") center repeat;
+}
+.icon-7-3{
+    height: 40px;
+    width: 100px;
+    background: url("man.svg") center repeat;
+}
+
+.adult,.young,.child{
+    line-height: 5px;
+    color:  rgba(187, 173, 43, 0.959);
+    font-weight: bold;
+    margin-top: 1px;
+    
+}
+.adu-value,.you-value,.chi-value{
+    line-height: 5px;
+    font-size: large;
+}
+.ic-3,.ic-4,.ic-5{
+    margin-left: 100px;
+}
+
+.grains,.fruit,.meat,.milk{
+    line-height: 5px;
+    margin-top: 10px;
+}
+.percentage{
+    font-size: x-large;
+    font-weight: bold;
+    color: rgba(187, 173, 43, 0.959);
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.simple-1{
+    margin-top: 10px;
+}
+
+.icon-8,.icon-9,.icon-10,.icon-11,.icon-12,.icon-13,.icon-14,.icon-15{
+    background: url("donut5.svg") center no-repeat;
+    height: 90px;
+    width: 90px;
+}
+.icon-16{
+    background: url("syringe.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+.icon-17{
+    background: url("heart.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+.icon-18{
+    background: url("cancer.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+.paragraph{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.people{
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 15px;
+    color: rgba(187, 173, 43, 0.959);
+}
+.diabetes,.stroke,.cancer{
+    line-height: 5px;
+    margin-top: 6px;
+    font-weight: 600;
+}
+
+.icon-8{
+    background: url("bread3.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.icon-10{
+    background: url("fruits.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+} 
+.icon-11{
+    background: url("vegetables.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+}
+.icon-12{
+    background: url("fish2.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+}
+.icon-13{
+    background: url("chicken-leg.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+}
+.icon-14{
+    background: url("milk.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+} 
+.icon-15{
+    background: url("yogurt.svg") center no-repeat;
+    height: 50px;
+    width: 50px;
+} 
+.icon-19{
+    background: url("ice-cream.svg") center no-repeat;
+    height: 90px;
+    width: 90px;
+} 
+.icon-20{
+    background: url("ice-cream3.svg") center no-repeat;
+    height: 90px;
+    width: 90px;
+} 
+.icon-21{
+    background: url("doughnut6.svg") center no-repeat;
+    height: 90px;
+    width: 90px;
+} 
+.icon-22{
+    background: url("french-fries.svg") center no-repeat;
+    height: 82px;
+    width: 80px;
+} 
+.icon-23{
+    background: url("soda.svg") center no-repeat;
+    height: 90px;
+    width: 90px;
+} 
+.icon-4{
+    margin-left: 20px;
+}
+.grains,.fruit,.meat,.milk{
+    color: rgb(2, 2, 138);
+    font-weight: 600;
+}
+.adu-value{
+    color: rgb(2, 2, 138);
+    font-weight: 800;
+}
+.you-value{
+    color: rgb(2, 2, 138);
+    font-weight: 800;
+}
+.chi-value{
+    color: rgb(2, 2, 138);
+    font-weight: 800;
+}
